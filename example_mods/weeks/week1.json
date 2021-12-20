@@ -1,0 +1,57 @@
+{
+	"storyName": "missasinfonia",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"missa",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"otomatone",
+			"missa",
+			[
+				0,
+				193,
+				253
+			]
+		],
+		[
+			"oaxaca",
+			"missa",
+			[
+				0,
+				93,
+				253
+			]
+		],
+		[
+			"cancion_china",
+			"missa",
+			[
+				0,
+				253,
+				253
+			]
+		],
+		[
+			"cuarentena",
+			"missa",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "MissaWeek"
+}

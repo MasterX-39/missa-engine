@@ -1,0 +1,63 @@
+{
+	"position": [
+		-10,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Ms_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-170,
+				0
+			],
+			"loop_offsets": [
+				-170,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "MsTalk",
+			"loop_name": "mstalkloop"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				-170,
+				0
+			],
+			"loop_name": "msangryloop",
+			"idle_name": "MsAngry"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				0
+			],
+			"anim": "cool",
+			"idle_offsets": [
+				-170,
+				0
+			],
+			"loop_name": "mscoolloop",
+			"idle_name": "MsCool"
+		},
+		{
+			"loop_offsets": [
+				-170,
+				0
+			],
+			"anim": "confiused",
+			"idle_offsets": [
+				-170,
+				0
+			],
+			"loop_name": "msconfiusedloop",
+			"idle_name": "Msconfiused"
+		}
+	]
+}
